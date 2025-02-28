@@ -164,3 +164,7 @@ The Spring PetClinic sample application is released under version 2.0 of the [Ap
 Изменение 1 в ветке 2
 Изменение 2 в ветке 2
 Изменение 3 в ветке 2
+Изменение 1 в ветке 1
+Изменение 2 в ветке 1
+Изменение 3 в ветке 1
+
